@@ -2,7 +2,7 @@
 >> PyNative
 
     1. [Basic Exercise](https://github.com/kundankumarnrg/Online-Programming/blob/main/PyNative-Programs/Basic-Exercise-Solution/1.Basic%20Exercise.py)
-    [Basic exercise](https://github.com/kundankumarnrg/Online-Programming/blob/main/PyNative-Programs/Basic-Exercise-Solution/1.Basic%20Exercise.py)
+    [Basic exercise](https://github.com/kundankumarnrg/Online-Programming/blob/main/PyNative-Programs/Basic-Exercise-Solution/1.Basic%20Exercise.py.md)
     2. Input and Output Exercise
     3. Loop Exercise
     4. Functions Exercise
