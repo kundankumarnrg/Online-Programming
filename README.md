@@ -15,3 +15,9 @@
     
     
 >> W3resource
+
+    List
+    Tuple
+    Sets
+    Dictionary
+    
