@@ -1,6 +1,6 @@
 '''
 #------------------------------------------------------------#
-Question-:
+Question-26:
 Write a Python program to calculate the product, multiplying all the numbers in a given tuple.
 
 Input:

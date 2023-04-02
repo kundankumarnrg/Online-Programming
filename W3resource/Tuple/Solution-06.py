@@ -1,6 +1,6 @@
 '''
 #------------------------------------------------------------#
-Question-:
+Question-6:
 Write a Python program to convert a tuple to a string.
 
 Input:

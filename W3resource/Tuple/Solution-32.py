@@ -1,6 +1,6 @@
 '''
 #------------------------------------------------------------#
-Question-:
+Question-32:
 Write a Python program to compute the sum of all the elements of each tuple stored inside a list of tuples.
 
 Input:

@@ -1,6 +1,6 @@
 '''
 #------------------------------------------------------------#
-Question-:
+Question-21:
 Write a Python program to replace the last value of tuples in a list.
 
 Input:

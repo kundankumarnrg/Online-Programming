@@ -1,6 +1,6 @@
 '''
 #------------------------------------------------------------#
-Question-:
+Question-1:
 Write a Python program to create a tuple.
 
 Input:

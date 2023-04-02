@@ -1,6 +1,6 @@
 '''
 #------------------------------------------------------------#
-Question-:
+Question-2:
 Write a Python program to create a tuple with different data types.
 
 Input:

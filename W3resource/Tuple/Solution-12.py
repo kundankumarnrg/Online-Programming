@@ -1,6 +1,6 @@
 '''
 #------------------------------------------------------------#
-Question-:
+Question-12:
 Write a Python program to remove an item from a tuple.
 
 Input:
